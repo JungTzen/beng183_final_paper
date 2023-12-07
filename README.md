@@ -8,9 +8,9 @@
 
 
 # scRNA-sequencing and Spatial Transcriptomics
-## Single cell RNA sequencing (scRNA-seq) is a recent development in genomic analysis. It focuses on the transcriptomes of individual cells. It allows scientists to get a glimpse into the similarities and differences within a population of cells. Popular tools for scRNA-seq analysis are scanpy and Seurat
+Single cell RNA sequencing (scRNA-seq) is a recent development in genomic analysis. It focuses on the transcriptomes of individual cells. It allows scientists to get a glimpse into the similarities and differences within a population of cells. Popular tools for scRNA-seq analysis are scanpy and Seurat
 
-## Spatial transcriptomics is a molecular profiling method used to help scientists measure gene activity in tissue and map where the activity occurs at. The tool we will be focusing on will be MERFISH (Multiplexed error-robust fluorescence in situ hybridization) which is a very popular tool for handling spatial transcriptomics.
+Spatial transcriptomics is a molecular profiling method used to help scientists measure gene activity in tissue and map where the activity occurs at. The tool we will be focusing on will be MERFISH (Multiplexed error-robust fluorescence in situ hybridization) which is a very popular tool for handling spatial transcriptomics.
 
 # Pros and Cons
 ## scRNA-seq
