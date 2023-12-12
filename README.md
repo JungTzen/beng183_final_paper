@@ -5,6 +5,7 @@
   - **[Pros and Cons](#2)**
   - **[Similarities and differences](#3)**
   - **[Real-world Uses](#4)**
+  - **[Sources](#5)**
 
 
 ### scRNA-sequencing and Spatial Transcriptomics<a name="231"></a>
@@ -94,28 +95,30 @@ Regarding drug development and responnse monitoring, spatial transcriptomics has
 
 Spatial transcriptomics helps us map the spatial distribution of immune cells in tissues and understand thier interactions relating to immune responses. Interestingly, many of ST's contributions to immunological research can be connected to cancer biology. An example of this is how ST was used to understand melanoma in a zebrafish model. The researchers focused on BRAF V600E-driven melanomas, utilizing ST to capture the complex spatial patterns within the tumor and its interaction with various surrounding tissues. The study highlighted the transcriptional distinctiveness of the tumor-microenvironment interface, a crucial area for understanding tumor invasion and growth. 
 
-### Sources
-Hunter, M.V., Moncada, R., Weiss, J.M. et al. Spatially resolved transcriptomics reveals the architecture of the tumor-microenvironment interface. Nat Commun 12, 6278 (2021). https://doi.org/10.1038/s41467-021-26614-z
-Jovic D, Liang X, Zeng H, Lin L, Xu F, Luo Y. Single-cell RNA sequencing technologies and applications: A brief overview. Clin Transl Med. 2022 Mar;12(3):e694. doi: 10.1002/ctm2.694. PMID: 35352511; PMCID: PMC8964935.
-https://learn.gencore.bio.nyu.edu/single-cell-rnaseq/
-https://encyclopedia.pub/entry/24618
-https://www.illumina.com/techniques/sequencing/rna-sequencing/ultra-low-input-single-cell-rna-seq.html
-Jeffrey R. Moffitt et al.,Molecular, spatial, and functional single-cell profiling of the hypothalamic preoptic region.Science362,eaau5324(2018).DOI:10.1126/science.aau5324
-https://www.hhmi.org/news/new-method-allows-precise-measurement-transcriptome-single-cells
-Mantri, Madhav & Scuderi, Gaetano & Abedini-Nassab, Roozbeh & Wang, Michael & McKellar, David & Shi, Hao & Grodner, Benjamin & Butcher, Jonathan & de vlaminck, Iwijn. (2021). Spatiotemporal single-cell RNA sequencing of developing chicken hearts identifies interplay between cellular differentiation and morphogenesis. Nature Communications. 12. 10.1038/s41467-021-21892-z. 
-Park, Y.M., Lin, DC. Moving closer towards a comprehensive view of tumor biology and microarchitecture using spatial transcriptomics. Nat Commun 14, 7017 (2023). https://doi.org/10.1038/s41467-023-42960-6
-https://www.genengnews.com/sponsored/getting-hooked-on-merfish-a-core-labs-journey-into-spatial-genomics/
-Tang Z, Liu X, Li Z, Zhang T, Yang B, Su J, Song Q. SpaRx: Elucidate single-cell spatial heterogeneity of drug responses for personalized treatment. bioRxiv [Preprint]. 2023 Aug 6:2023.08.03.551911. doi: 10.1101/2023.08.03.551911. Update in: Brief Bioinform. 2023 Sep 22;24(6): PMID: 37577665; PMCID: PMC10418183.
-Xiaoyu Wei et al.,Single-cell Stereo-seq reveals induced progenitor cells involved in axolotl brain regeneration.Science377,eabp9444(2022).DOI:10.1126/science.abp9444
-https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-022-01075-1
-https://vizgen.com/technology/
-https://www.illumina.com/techniques/sequencing/rna-sequencing/ultra-low-input-single-cell-rna-seq.html
-IMAGE: https://www.google.com/url?sa=i&url=https%3A%2F%2Fphys.org%2Fnews%2F2023-11-exploring-spatial-transcriptomics-biomedical.html&psig=AOvVaw16kzYM56r_CDc_bL-ezgm3&ust=1702250420533000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCCoI-_g4MDFQAAAAAdAAAAABAD
-https://vizgen.com/resources/how-merfish-technology-works/
-https://vizgen.com/technology/
-IMAGE: https://cdn-jcodf.nitrocdn.com/YbAKvIzVYiimMHgpqGPSKkpjKgpcVgmj/assets/images/optimized/rev-feddd4c/vizgen.com/wp-content/uploads/2022/10/MERFISH-Technology-OverView.png.webp
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nature.com%2Farticles%2Fs41467-023-39447-9&psig=AOvVaw3ygZBpSsTPcIcdX3FF6yWq&ust=1702352938070000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPi87IO9hoMDFQAAAAAdAAAAABAJ
-https://vizgen.com/developing-spatial-transcriptomics-data-analysis-solutions-to-empower-researchers/
-https://www.sciencedirect.com/science/article/pii/S0888754323001155
-https://www.nature.com/articles/s41598-019-43943-8
-https://www.life-science-alliance.org/content/6/1/e202201701
+### Sources <a name="5"></a>
+* Hunter, M.V., Moncada, R., Weiss, J.M. et al. Spatially resolved transcriptomics reveals the architecture of the tumor-microenvironment interface. Nat Commun 12, 6278 (2021). https://doi.org/10.1038/s41467-021-26614-z
+* Jovic D, Liang X, Zeng H, Lin L, Xu F, Luo Y. Single-cell RNA sequencing technologies and applications: A brief overview. Clin Transl Med. 2022 Mar;12(3):e694. doi: 10.1002/ctm2.694. PMID: 35352511; PMCID: PMC8964935.
+* Chen G, Ning B, Shi T. Single-Cell RNA-Seq Technologies and Related Computational Data Analysis. Front Genet. 2019 Apr 5;10:317. doi: 10.3389/fgene.2019.00317. PMID: 31024627; PMCID: PMC6460256.
+* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8964935/figure/ctm2694-fig-0002/
+* https://learn.gencore.bio.nyu.edu/single-cell-rnaseq/
+* https://encyclopedia.pub/entry/24618
+* https://www.illumina.com/techniques/sequencing/rna-sequencing/ultra-low-input-single-cell-rna-seq.html
+* Jeffrey R. Moffitt et al.,Molecular, spatial, and functional single-cell profiling of the hypothalamic preoptic region.Science362,eaau5324(2018).DOI:10.1126/science.aau5324
+* https://www.hhmi.org/news/new-method-allows-precise-measurement-transcriptome-single-cells
+* Mantri, Madhav & Scuderi, Gaetano & Abedini-Nassab, Roozbeh & Wang, Michael & McKellar, David & Shi, Hao & Grodner, Benjamin & Butcher, Jonathan & de vlaminck, Iwijn. (2021). Spatiotemporal single-cell RNA sequencing of developing chicken hearts identifies interplay between cellular differentiation and morphogenesis. Nature Communications. 12. 10.1038/s41467-021-21892-z.
+* Park, Y.M., Lin, DC. Moving closer towards a comprehensive view of tumor biology and microarchitecture using spatial transcriptomics. Nat Commun 14, 7017 (2023). https://doi.org/10.1038/s41467-023-42960-6
+* https://www.genengnews.com/sponsored/getting-hooked-on-merfish-a-core-labs-journey-into-spatial-genomics/
+* Tang Z, Liu X, Li Z, Zhang T, Yang B, Su J, Song Q. SpaRx: Elucidate single-cell spatial heterogeneity of drug responses for personalized treatment. bioRxiv [Preprint]. 2023 Aug 6:2023.08.03.551911. doi: 10.1101/2023.08.03.551911. Update in: Brief Bioinform. 2023 Sep 22;24(6): PMID: 37577665; PMCID: PMC10418183.
+* Xiaoyu Wei et al.,Single-cell Stereo-seq reveals induced progenitor cells involved in axolotl brain regeneration.Science377,eabp9444(2022).DOI:10.1126/science.abp9444
+* https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-022-01075-1
+* https://vizgen.com/technology/
+* https://www.illumina.com/techniques/sequencing/rna-sequencing/ultra-low-input-single-cell-rna-seq.html
+* IMAGE: https://www.google.com/url?sa=i&url=https%3A%2F%2Fphys.org%2Fnews%2F2023-11-exploring-spatial-transcriptomics-biomedical.html&psig=AOvVaw16kzYM56r_CDc_bL-ezgm3&ust=1702250420533000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCCoI-_g4MDFQAAAAAdAAAAABAD
+* https://vizgen.com/resources/how-merfish-technology-works/
+* https://vizgen.com/technology/
+* IMAGE: https://cdn-jcodf.nitrocdn.com/YbAKvIzVYiimMHgpqGPSKkpjKgpcVgmj/assets/images/optimized/rev-feddd4c/vizgen.com/wp-content/uploads/2022/10/MERFISH-Technology-OverView.png.webp
+* https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nature.com%2Farticles%2Fs41467-023-39447-9&psig=AOvVaw3ygZBpSsTPcIcdX3FF6yWq&ust=1702352938070000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPi87IO9hoMDFQAAAAAdAAAAABAJ
+* https://vizgen.com/developing-spatial-transcriptomics-data-analysis-solutions-to-empower-researchers/
+* https://www.sciencedirect.com/science/article/pii/S0888754323001155
+* https://www.nature.com/articles/s41598-019-43943-8
+* https://www.life-science-alliance.org/content/6/1/e202201701
