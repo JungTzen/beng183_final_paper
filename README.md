@@ -12,7 +12,7 @@
   * **Background**:
     Single cell RNA sequencing (scRNA-seq) is a recent development in genomic analysis introduced by Tang et al. in 2009. Single cell RNA sequecing allows scientists to analyze the genomes/transcriptomes of individual cells at a high-resolution which opens doors in understanding more about cellular function and heterogeneity, cell population and subpopulation identification, etc. Being a highly sensitive ultra-low-input method, scRNA-seq is able to capture more information when other methods would consider it as "noise." Tools that are most commonly used for scRNA-seq analysis would be Scanpy (Python) and Seurat (R) both offer similar functions in preprocessing, clustering, quality control, visualization, identification of cell types, and many more.
   * **Method**:
-  ![image](https://github.com/JungTzen/beng183_final_paper/assets/83424119/8094f912-87eb-479c-81a7-4dbd39dcb82e)
+    ![image](https://github.com/JungTzen/beng183_final_paper/assets/83424119/8094f912-87eb-479c-81a7-4dbd39dcb82e)
     
 
   * **Tools**:
