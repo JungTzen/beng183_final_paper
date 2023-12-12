@@ -29,9 +29,15 @@
 ### Pros and Cons<a name="2"></a>
 * **scRNA-seq** <br>
   * **Pros**:
-    * **Widely-Used Versatility Efficiency (More genes per sequence)**
+    * **Widely-Used**: scRNA-seq is widely-used technique in the field of biology and due to this there is a plenthora of resources, forums, and extensive databases/tools to support single cell research.
+    * **Versatility**: scRNA-seq can be used in a multitude of research which we discussed some fields of research here: **[Real-world Uses](#4)**. Aside from that, this technology is applicable to a range of cells from tissue, cultured cells, blood, etc. 
+    * **Efficiency (More genes per sequence)**: When compared to spatial transcriptomics, scRNA-seq can sequence thousands of genes per cell and provide information on cells that can missed by bulk RNA sequencing or spatial transcriptomics which are limited due to its sampling size (either too much or too little)
+    * **Higher Resolution Compared to Bulk-RNA Sequencing**: Due to scRNA-seq's high sensitivity, it offers higher resolution on samples that are usually disregarded by bulk sampling methods as "noise".
   * **Cons**:
-    * **Lack of Spatial Information Data Integration challenges Gene dropout due to technical limitations Lower resolution**
+    * **Lack of Spatial Information
+    * **Data Integration challenges**
+    * **Gene dropout due to technical limitations**
+    * **Lower resolution**
 
 * **Spatial Transcriptomics** <br>
   * **Pros**:
