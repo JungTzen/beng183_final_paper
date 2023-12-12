@@ -14,9 +14,10 @@
   * **Method**:
 <p align="center">
   <img src="https://github.com/JungTzen/beng183_final_paper/assets/83424119/8094f912-87eb-479c-81a7-4dbd39dcb82e" alt="image">
+  ![image](https://github.com/JungTzen/beng183_final_paper/assets/83424119/8094f912-87eb-479c-81a7-4dbd39dcb82e)
 </p>
 
-  ![image](https://github.com/JungTzen/beng183_final_paper/assets/83424119/8094f912-87eb-479c-81a7-4dbd39dcb82e)
+  
 * scRNA-seq follows the workflow as shown above. First the tissue must be prepared followed by the isolation of the cells capturing the single cells. Each cell is then wrapped with unique molecular identifiers inside a nanoscale droplet to be then reverse transcribed into cDNA. This newly transcribed cDNA is then amplified to be sequenced and then analyzed using tools like scanpy and seurat. Illumina's video explains this workflow very clearly [Single-cell Sequencing and Analysis Workflow](https://www.youtube.com/watch?v=CVaSHbQg-P8&ab_channel=Illumina)
 
   * **Tools**: Scanpy (Python Library) and Seurat (R Package) and work interchangeably but using either Python or R can provide access to different workflows and libraries/packages that can enhance your scRNA-seq analysis. For example, using Scanpy can open doors for machine learning integration due to the Python programming language while Seurat is often used in most labs due to its statistical tools and many scientists' familiarity with the R programming language. Both give access to scientists to computionally analyze their samples after being sequenced through visualizing (t-SNE and UMAP plots), clustering, preprocessing, and interpretation of the single cellular data.
