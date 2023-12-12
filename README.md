@@ -13,8 +13,8 @@
     Single cell RNA sequencing (scRNA-seq) is a recent development in genomic analysis introduced by Tang et al. in 2009. Single cell RNA sequecing allows scientists to analyze the genomes/transcriptomes of individual cells at a high-resolution which opens doors in understanding more about cellular function and heterogeneity, cell population and subpopulation identification, etc. Being a highly sensitive ultra-low-input method, scRNA-seq is able to capture more information when other methods would consider it as "noise." Tools that are most commonly used for scRNA-seq analysis would be Scanpy (Python) and Seurat (R) both offer similar functions in preprocessing, clustering, quality control, visualization, identification of cell types, and many more.
   * **Method**:
   ![image](https://github.com/JungTzen/beng183_final_paper/assets/83424119/8094f912-87eb-479c-81a7-4dbd39dcb82e)
-)
-     f
+    
+
   * **Tools**:
 
 * **Imaging Spatial Transcriptomics**: 
@@ -92,6 +92,10 @@ Spatial transcriptomics helps us map the spatial distribution of immune cells in
 
 ### Sources
 Hunter, M.V., Moncada, R., Weiss, J.M. et al. Spatially resolved transcriptomics reveals the architecture of the tumor-microenvironment interface. Nat Commun 12, 6278 (2021). https://doi.org/10.1038/s41467-021-26614-z
+Jovic D, Liang X, Zeng H, Lin L, Xu F, Luo Y. Single-cell RNA sequencing technologies and applications: A brief overview. Clin Transl Med. 2022 Mar;12(3):e694. doi: 10.1002/ctm2.694. PMID: 35352511; PMCID: PMC8964935.
+https://learn.gencore.bio.nyu.edu/single-cell-rnaseq/
+https://encyclopedia.pub/entry/24618
+https://www.illumina.com/techniques/sequencing/rna-sequencing/ultra-low-input-single-cell-rna-seq.html
 Jeffrey R. Moffitt et al.,Molecular, spatial, and functional single-cell profiling of the hypothalamic preoptic region.Science362,eaau5324(2018).DOI:10.1126/science.aau5324
 https://www.hhmi.org/news/new-method-allows-precise-measurement-transcriptome-single-cells
 Mantri, Madhav & Scuderi, Gaetano & Abedini-Nassab, Roozbeh & Wang, Michael & McKellar, David & Shi, Hao & Grodner, Benjamin & Butcher, Jonathan & de vlaminck, Iwijn. (2021). Spatiotemporal single-cell RNA sequencing of developing chicken hearts identifies interplay between cellular differentiation and morphogenesis. Nature Communications. 12. 10.1038/s41467-021-21892-z. 
