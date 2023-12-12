@@ -71,7 +71,7 @@
   * **Gene Dropout Rates**: MERFISH has been shown to have improvements in overall gene dropout rates and sensitivity compared to scRNA-seq, which is an important consideration when choosing the appropriate technology for specific research applications
 
 
-### Real World Uses
+### Real World Uses <a name="4"></a>
 By integrating scRNA-seq and spatial transcriptomics, researchers can gain a more holistic understanding of biological systems, combining the depth of single-cell analysis with the critical context of spatial distribution.
 
 **Advanced Cancer Research:**
