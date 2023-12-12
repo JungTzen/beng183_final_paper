@@ -34,10 +34,10 @@
     * **Efficiency (More genes per sequence)**: When compared to spatial transcriptomics, scRNA-seq can sequence thousands of genes per cell and provide information on cells that can missed by bulk RNA sequencing or spatial transcriptomics which are limited due to its sampling size (either too much or too little)
     * **Higher Resolution Compared to Bulk-RNA Sequencing**: Due to scRNA-seq's high sensitivity, it offers higher resolution on samples that are usually disregarded by bulk sampling methods as "noise".
   * **Cons**:
-    * **Lack of Spatial Information
-    * **Data Integration challenges**
-    * **Gene dropout due to technical limitations**
-    * **Lower resolution**
+    * **Lack of Spatial Information**: Due to the limitation of single cell analysis, it doesn't capture the spatial context of cells within tissue samples which is used to understand cellular functions and interactions. This is why scRNA-seq and spatial transcriptomics can work hand and hand.
+    * **Data Integration challenges**: Analyzing single cell RNA-sequenced data usually requires a comprehensive understanding on bioinformatic tools and data structures as it is more complex than bulk RNA-seq data including the reads, unique molecular identifiers (UMIs), quality scores, cell barcodes, etc. 
+    * **Gene dropout due to technical limitations**: There are many reasons as to what can lead to gene dropout rates increases in scRNA-seq. Due to its workflow, the dropout could occur because of the low RNA content, amplification bias, and sequencing depth. The poor gene detection could later complicate data analysis and interpretation.
+    * **Lower resolution**: When comparing resolution with technologies like spatial transcriptomics and ATAC-seq, scRNA-seq yields lower resolution which impacts interpretation of other aspects of the cell. 
 
 * **Spatial Transcriptomics** <br>
   * **Pros**:
